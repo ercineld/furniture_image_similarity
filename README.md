@@ -16,15 +16,15 @@ In addition to that, there is also a demo file to demonstrate model via [Streaml
 ## Demo Screenshots
 Input file:
 
-<img src="/input.png" width="500">
+<img src="/images/input.png" width="500">
 
 Results - 1:
 
-<img src="/results1.png" width="500">
+<img src="/images/results1.png" width="500">
 
 Results - 2:
 
-<img src="/results2.png" width="500">
+<img src="/images/results2.png" width="500">
 
 
 
